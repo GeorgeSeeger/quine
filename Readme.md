@@ -11,5 +11,5 @@ $ dotnet test tests
 
 ## Why?
 
-Because
+ ~~Because~~ Because you have to do it once
 
